@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+filterpy
+scikit-image
+numpy
+lap
